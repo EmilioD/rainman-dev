@@ -59,7 +59,7 @@
         "url": "https://github.com/VictoriaMetrics/VictoriaMetrics/releases"
       }
     ],
-    "liveNow": false,
+    "liveNow": true,
     "panels": [
       {
         "collapsed": false,
@@ -3934,7 +3934,7 @@
         "type": "row"
       }
     ],
-    "refresh": "",
+    "refresh": "10s",
     "schemaVersion": 39,
     "tags": [
       "vmagent",
