@@ -3956,7 +3956,7 @@
           "query": "prometheus",
           "queryValue": "",
           "refresh": 1,
-          "regex": "victoria-metrics",
+          "regex": "",
           "skipUrlSync": false,
           "type": "datasource"
         },
